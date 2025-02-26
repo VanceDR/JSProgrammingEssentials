@@ -8,7 +8,7 @@ function calculateArea() {
     document.getElementById('result').innerText = `The area of the rectangle is: ${area}`;
 
 }
-
+// PRACTICE TASK
 function groceryTracker() {
     let amount1 = parseFloat(document.getElementById('grocery1').value);
     let amount2 = parseFloat(document.getElementById('grocery2').value);
