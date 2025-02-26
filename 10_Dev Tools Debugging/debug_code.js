@@ -18,9 +18,11 @@ function performOperation() {
 function multiply(a, b) {
     // Introduce a debugger statement to pause execution
     debugger;
-
+    let addition = a + b
+    let subtraction = a - b
+    let multiplication = a * b
     // Multiply the numbers
-    return a * b;
+    return multiplication;
 }
 
 function displayResult(result) {
