@@ -1,0 +1,24 @@
+{
+    "news": [
+        {
+            "title": "News Article 1",
+            "content": "This is the content of the first news article."
+        },
+        {
+            "title": "News Article 2",
+            "content": "This is the content of the second news article."
+        },
+        {
+            "title": "News Article 3",
+            "content": "This is the content of the third news article."
+        },
+        {
+            "title": "News Article 4",
+            "content": "This is the content of the fourth news article."
+        },
+        {
+            "title": "News Article 5",
+            "content": "This is the content of the fifth news article."
+        }
+    ]
+}
